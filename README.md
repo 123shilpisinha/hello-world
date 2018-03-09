@@ -1,2 +1,2 @@
 # hello-world
-first repository
+ hi! I am a college student.I love programming
